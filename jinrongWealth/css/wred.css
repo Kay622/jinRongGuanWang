@@ -1,0 +1,667 @@
+#header .wrapper,
+#navMini,
+.gh0 #header,
+body,
+html {
+    background-color: #fff;
+}
+
+.agent-pc .npagePage .team .item_box:hover .title,
+
+/* .agent-pc .ad01 .item_block.first .title, */
+
+
+/* .agent-pc .ad01 .item_info .description, */
+
+.agent-pc #sitecontent .ad01 .item_block.first:hover .item_wrapper .title,
+.agent-pc .ad01 .item_block.first:hover .subtitle,
+.agent-pc .ad01 .item_block:hover .subtitle,
+.agent-pc #mcontact #contactinfo div a:hover i {
+    color: #fff;
+}
+
+
+/* .agent-pc .ad01 .item_block.first .item_info .description {
+    color: rgba(255, 255, 255, .7);
+} */
+
+.agent-pc .npagePage .news .item_block:hover {
+    box-shadow: 0 15px 25px rgba(0, 0, 0, .0);
+}
+
+.agent-pc #indexPage .mlist.team_tabs .container_content .bx-wrapper .bx-controls-direction a {
+    background-color: rgba(0, 0, 0, .0);
+}
+
+#header .nav>li>a,
+#header .nav>li>a>i,
+.agent-pc #indexPage .mlist.team_tabs .bx-wrapper .bx-controls-direction a i::before {
+    color: #666;
+}
+
+.agent-pc #indexPage .module .container_header .title,
+.agent-pc .project .more .fa-angle-right::after,
+.agent-pc .news .item_info .title,
+.agent-pc .npagePage.post #postContent .title,
+.agent-pc .npagePage .mpageEditor .container_header .title,
+.agent-pc .team .item_box:hover .title,
+.agent-pc .npagePage.post .team .title,
+.agent-pc .npagePage.post .news #postContent .title,
+#indexPage .team.module .module_container .bx-wrapper .bx-controls-direction a.bx-next i.fa-angle-right::after,
+.agent-pc #indexPage .mlist.team_tabs .tab_button li.active p.title,
+.agent-pc #indexPage .mlist.team_tabs .tab_button li .item_info:hover p.title,
+{
+    color: #333;
+}
+
+.agent-pc #indexPage .mlist.team_tabs .tab_button li .item_info:hover p.subtitle {
+    color: #fff;
+}
+
+.agent-pc .mcustomize .header .title {
+    color: #fff;
+}
+
+.agent-pc .module.mcustomize .header .subtitle {
+    color: rgba(255, 255, 255, 0.5)
+}
+
+.agent-pc #sitecontent .project .title,
+.agent-pc #indexPage .mlist.team_tabs .tab_content li .title,
+.agent-pc .news .item_block:hover .description,
+#sitecontent .npagePage.post .project .title,
+.agent-pc .npagePage.post #postContent .project .item_block .title,
+.agent-pc .npagePage.post #postContent .project .item_block:hover .subtitle,
+.agent-pc .npagePage .news .item_info .title,
+.agent-pc #contactform p .inputtxt,
+.agent-pc #indexPage .mlist.team_tabs .tab_button .item_info p.title,
+{
+    color: #666;
+}
+
+.agent-pc #indexPage .mlist.team_tabs .tab_button li.active p.subtitle,
+.agent-pc #indexPage .mlist.team_tabs .tab_button li.active p.subtitle:hover {
+    color: #fff
+}
+
+.agent-pc #indexPage .module .container_header .title {
+    color: #666
+}
+
+.agent-pc .team .item_des {
+    color: rgba(255, 255, 255, .70);
+}
+
+.agent-pc .npagePage .team .item_des::after {
+    background-color: rgba(255, 255, 255, .2);
+}
+
+.agent-pc .mcustomize .mediabody {
+    background-color: rgba(255, 255, 255, .0);
+}
+
+.agent-pc #indexPage .mlist.team_tabs .tab_button li .item_info:hover,
+.agent-pc #indexPage .mlist.team_tabs .tab_button li.active {
+    background-color: #c81212;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.agent-pc #indexPage .module .container_header .subtitle,
+.container_category a,
+.agent-pc #sitecontent .project .subtitle,
+.agent-pc .ad01 .item_block .subtitle {
+    color: #b6b6b6;
+}
+
+#header .wrapper,
+.agent-pc #indexPage .project.module,
+.agent-pc #indexPage .news.module,
+.agent-pc #indexPage .module.news .container_content .bx-wrapper .bx-controls-direction a,
+.agent-pc #indexPage .service.module,
+.agent-pc #indexPage #mcontact,
+#olx_qq li a,
+#shares a,
+#pageTarget,
+.npagePage .content,
+.agent-pc .npagePage.post .team .item_tags a,
+.agent-pc #indexPage .module.mcustomize.tril,
+.agent-pc .npagePage.post .mlist.team_tabs .tab_button {
+    background-color: #fff;
+}
+
+.agent-pc .news::after,
+.agent-pc #indexPage .mlist.team_tabs::after,
+.npagePage #pageTarget::before {
+    background: rgba(0, 0, 0, .1);
+}
+
+.agent-pc #indexPage .mlist.team_tabs .tab_button,
+#indexPage .module.team_tabs .container_content .bx-wrapper .bx-controls-direction a.bx-prev,
+.agent-pc #indexPage .mlist.team_tabs .container_content .bx-wrapper .bx-controls-direction a {
+    border-color: rgba(0, 0, 0, .08);
+}
+
+#sitecontent .container_category a.active,
+#sitecontent .container_category a:hover {
+    color: #535353;
+}
+
+#topSlider .bx-wrapper .bx-controls-direction a i::before {
+    color: rgba(255, 255, 255, .8);
+}
+
+#topSlider .bx-wrapper .bx-controls-direction,
+#sitecontent #topSlider .bx-wrapper .bx-controls-direction a.bx-next:hover,
+#sitecontent #topSlider .bx-wrapper .bx-controls-direction a.bx-prev:hover,
+{
+    border-color: rgba(255, 255, 255, .3);
+}
+
+.agent-pc .project .item_block .item_mask {
+    background-color: rgba(255, 255, 255, .5);
+}
+
+#indexPage .tab_content .bx-wrapper {
+    background-color: #c81212;
+}
+
+.agent-pc .project .more .fa-angle-right::before {
+    color: #bdbdbd;
+}
+
+.agent-pc #footer,
+#sitecontent #indexPage .ad01.module.bgShow.bgParallax,
+.agent-pc #indexPage .team_tabs,
+.agent-pc #indexPage .team,
+.agent-pc #footer,
+.agent-pc #indexPage .imagelink,
+#header .nav .subnav li a.active,
+#header .nav .subnav li a:hover {
+    background-color: #f8f8f8;
+}
+
+.agent-pc #indexPage .imagelink {
+    background-color: #c81212;
+}
+
+.agent-pc #indexPage .ad01 {
+    background-color: #373737;
+}
+
+.gh0 #header.mini .wrapper {
+    background-color: rgba(255, 255, 255, .85);
+}
+
+.npagePage.post .project .item_tags a {
+    background-color: #fff;
+    border-color: rgba(0, 0, 0, .3);
+}
+
+.agent-pc .npagePage.post .mlist.team_tabs .tab_button {
+    border-color: rgba(0, 0, 0, .06);
+}
+
+.agent-pc .ad01 .item_block .subtitle::before,
+.agent-pc .service .item_info::before,
+.agent-pc .npagePage.post .project .description::before,
+.agent-pc .npagePage .team .item_info::after,
+.agent-pc .npagePage .news .item_tags a::after {
+    background-color: rgba(0, 0, 0, .15);
+}
+
+#indexPage .module.news .container_content .bx-wrapper .bx-controls-direction a {
+    border-color: rgba(0, 0, 0, .1);
+}
+
+.agent-pc .news .bx-wrapper .bx-controls-direction a i,
+.agent-pc .npagePage.post .bx-wrapper .bx-controls-direction a.bx-next i.fa-angle-right::before,
+.agent-pc .npagePage.post .bx-wrapper .bx-controls-direction a.bx-prev i::before,
+.agent-pc .news .item_des p,
+.agent-pc .npagePage .news .item_tags a,
+.agent-pc #indexPage .mlist.team_tabs .tab_button .item_info p.subtitle {
+    color: #999;
+}
+
+
+/* .agent-pc .team .item_box .subtitle {
+    color: rgba(255, 255, 255, 0.70);
+} */
+
+.agent-pc #indexPage .mlist.team_tabs .tab_content li .subtitle {
+    color: rgba(255, 255, 255, 0.5)
+}
+
+.agent-pc .module.mcustomize .description a::after {
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.agent-pc #indexPage .mlist.team_tabs .tab_content li:hover .description {
+    color: rgba(255, 255, 255, 1.00)
+}
+
+
+/* .agent-pc .team .item_box .title {
+    color: rgba(255, 255, 255, 0.70);
+} */
+
+.agent-pc .service .title {
+    color: #666;
+}
+
+.agent-pc #indexPage .mlist.team_tabs .tab_content li .item_info::after {
+    background-color: rgba(0, 0, 0, .2);
+}
+
+.agent-pc #indexPage .mlist.team_tabs .tab_content li .description {
+    color: rgba(255, 255, 255, 0.70);
+}
+
+.agent-pc .module.mcustomize .description a,
+#olx_qq li a,
+#shares a {
+    border-color: rgba(255, 255, 255, .50);
+}
+
+.agent-pc .npagePage.post .project .description a,
+.agent-pc .npagePage.post .project #listContent,
+.agent-pc .npagePage.post .service #postNav .navitem,
+.agent-pc .npagePage.post .team .item_tags a,
+.agent-pc .npagePage .news .date_wrap,
+.agent-pc .npagePage.post .news #postInfo .item_tags {
+    border-color: rgba(0, 0, 0, .15);
+}
+
+.agent-pc #contactform p .inputtxt,
+.agent-pc #contactform p textarea.inputtxt,
+.agent-pc #contactform p .inputtxt.submit {
+    border-color: rgba(0, 0, 0, .3);
+}
+
+#header .nav .subnav {
+    background-color: #f8f8f8;
+}
+
+#header .nav .subnav li a {
+    background-color: #fff;
+}
+
+.agent-pc .project .item_block .item_mask {
+    box-shadow: 0 0 30px rgba(255, 255, 255, .2);
+    -moz-box-shadow: 0 0 30px rgba(255, 255, 255, .2);
+    -webkit-box-shadow: 0 0 30px rgba(255, 255, 255, .2);
+}
+
+.agent-pc #indexPage .mlist.team_tabs .tab_content li .item_img::after {
+    background-color: transparent;
+}
+
+.agent-pc .ad01 .item_block {
+    box-shadow: 0 0 1px rgba(0, 0, 0, .0);
+}
+
+.agent-pc #indexPage .service .container_content .bx-wrapper .bx-controls-direction a.bx-next,
+.agent-pc #indexPage .service .container_content .bx-wrapper .bx-controls-direction a.bx-prev,
+.agent-pc #indexPage .team .container_content .bx-wrapper .bx-controls-direction a {
+    background-color: rgba(0, 0, 0, .0);
+}
+
+.agent-pc #indexPage .service .bx-wrapper .bx-controls-direction a i,
+.agent-pc #indexPage .service .bx-wrapper .bx-controls-direction a.bx-prev i::before,
+{
+    color: #666;
+}
+
+.agent-pc .team .bx-wrapper .bx-controls-direction a i {
+    color: rgba(255, 255, 255, 0.70);
+}
+
+
+/*关于我们*/
+
+.agent-pc #indexPage .tril.mcustomize .description {
+    background-color: rgba(255, 255, 255, 1);
+}
+
+.agent-pc .news .item_block:hover .description {
+    color: #999
+}
+
+
+/*以下为颜色*/
+
+#header .nav>li>a span::after,
+#header .nav .subnav li a.active,
+#header .nav .subnav li a:hover,
+#sitecontent .container_category a.active,
+#sitecontent .container_category a:hover,
+.agent-pc .project .more .fa-angle-right::after,
+.agent-pc .news .more .fa-angle-right::after,
+.agent-pc .news .item_block:hover .date_wrap .md,
+.agent-pc #indexPage .news .item_block:hover .date_wrap::after,
+.agent-pc .news .item_block:hover .title,
+.agent-pc #indexPage .mlist.team_tabs .tab_content li:hover .item_wrapper::after,
+.module.mcounter ul.content_list li p.number .unit,
+.agent-pc .news .more .fa-angle-right::after,
+.agent-pc .service .item_block:hover a.details::before,
+.agent-pc .service .item_block:hover .title,
+.npagePage .container_target a:last-child,
+#pages a.active,
+.agent-pc #sitecontent .project .item_block:hover .title,
+#pages a:hover,
+.agent-pc #sitecontent .npagePage.post #postContent .project .item_block:hover .title,
+.agent-pc .npagePage.post #postNav a.active .title,
+.agent-pc .npagePage.post #postNav a:hover .title,
+.agent-pc .npagePage .news .item_block:hover .title,
+.agent-pc #sitecontent .npagePage .item_tags a:hover {
+    color: #c81212;
+}
+
+.agent-pc #indexPage .team .item_block:hover .item_box .item_wrapper::after {
+    color: #fff;
+}
+
+.agent-pc #indexPage .mlist.team_tabs .tab_content li:hover .title {
+    color: #fff;
+}
+
+.agent-pc .imagelink .bx-wrapper .bx-controls-direction a:hover i,
+.module.mcounter ul.content_list li p.number .counterDX {
+    color: #fff;
+}
+
+.module.mcounter ul.content_list li p {
+    color: rgba(255, 255, 255, 0.50);
+}
+
+.agent-pc .npagePage.post .bx-wrapper .bx-controls-direction a.bx-prev i::after,
+.agent-pc .npagePage.post .bx-wrapper .bx-controls-direction a.bx-next i.fa-angle-right::after {
+    color: #fff;
+}
+
+.agent-pc .service .item_block:hover::after,
+.agent-pc .team .text_wrap::after {
+    background-color: #c81212;
+}
+
+#header .nav>li>a span::before,
+.agent-pc #indexPage .mlist.team_tabs .bx-wrapper .bx-controls-direction a:hover,
+.agent-pc .module.news .bx-wrapper .bx-controls-direction a:hover,
+.agent-pc #indexPage .project .item_block:hover .details,
+.agent-pc #indexPage .news .item_block:hover a.details,
+.agent-pc .module.mcustomize .description a:hover,
+.agent-pc .ad01 .item_block:hover .item_wrapper,
+
+/* .agent-pc .ad01 .item_block.first:hover .item_info::after, */
+
+.agent-pc .team .bx-wrapper .bx-controls-direction a:hover,
+.agent-pc .service .bx-wrapper .bx-controls-direction a:hover,
+.agent-pc #mcontact #contactinfo div a:hover,
+#online_open,
+#online_open:hover,
+#shares a:hover,
+.npagePage .container_category a::after,
+.agent-pc .npagePage .project .item_block:hover .details::before,
+.agent-pc .npagePage .project .item_block:hover .details::after,
+.agent-pc #contactform p .inputtxt:hover.submit,
+.agent-pc .npagePage .team .item_block:hover,
+.agent-pc #indexPage .team .container_content .bx-wrapper .bx-controls-direction a:hover,
+.agent-pc #sitecontent .npagePage.post .project .description a:hover,
+#pages a::after,
+.agent-pc .project .bx-wrapper .bx-controls-direction a:hover,
+.agent-pc #indexPage .module.project .container_content .bx-wrapper .bx-controls-direction a:hover {
+    background-color: #c81212;
+}
+
+.agent-pc #indexPage .mlist.team_tabs .tab_button li.active {
+    background-color: #c81212;
+}
+
+.agent-pc #indexPage .mlist.team_tabs .bx-wrapper .bx-controls-direction a.bx-prev:hover i.fa-angle-left::after,
+.agent-pc #indexPage .mlist.team_tabs .bx-wrapper .bx-controls-direction a.bx-next:hover i.fa-angle-right::after,
+#indexPage .news.module .module_container .bx-wrapper .bx-controls-direction a.bx-next i.fa-angle-right::after,
+#indexPage .news.module .module_container .bx-wrapper .bx-controls-direction a.bx-prev i::after,
+.agent-pc .ad01 .item_block .title::after,
+.agent-pc #sitecontent .ad01 .item_block:hover .item_wrapper .title,
+.agent-pc #mcontact #contactinfo div a:hover i,
+#olx_head i,
+#olx_qq li a:hover i,
+#online_open i,
+#online_open:hover i,
+#shares a:hover i,
+.agent-pc #contactform p .inputtxt.submit:hover,
+.agent-pc #sitecontent .npagePage.post .project .description a:hover,
+.agent-pc .team .item_box:hover .subtitle,
+.agent-pc .npagePage .team .item_block:hover .item_des,
+#indexPage .team.module .module_container .bx-wrapper .bx-controls-direction a.bx-next i.fa-angle-right::after,
+#indexPage .team.module .module_container .bx-wrapper .bx-controls-direction a.bx-prev i::after,
+.agent-pc #indexPage .project .bx-wrapper .bx-controls-direction a:hover i::after {
+    color: #fff;
+}
+
+.agent-pc #sitecontent .ad01 .item_block:hover .item_wrapper .description {
+    color: #fff;
+}
+
+.agent-pc .module.mcustomize .description a:hover::before {
+    color: #c81212;
+}
+
+.agent-pc #indexPage .project .item_block:hover .details,
+.agent-pc #indexPage .news .item_block:hover a.details,
+.agent-pc .ad01 .item_block:hover .item_img::after,
+.agent-pc .ad01 .item_block.first:hover .item_info::after,
+.agent-pc #mcontact #contactinfo div a:hover,
+#online_open,
+#online_open:hover,
+#shares a:hover,
+.agent-pc .npagePage .project .item_block:hover .item_wrapper,
+.agent-pc .npagePage.post .mlist.team_tabs .tab_button li.active .item_img::after,
+.npagePage.post .project .item_tags a:hover,
+.npagePage.post .service .item_tags a:hover,
+.agent-pc #contactform p .inputtxt:hover.submit,
+#indexPage .module.news .container_content .bx-wrapper .bx-controls-direction a:hover,
+.agent-pc .ad01 .item_block .subtitle,
+.agent-pc #indexPage .project .item_block .details,
+.agent-pc #sitecontent .npagePage.post .project .description a:hover,
+.agent-pc .npagePage .team .item_block:hover {
+    border-color: #c81212;
+}
+
+.agent-pc .module.mcustomize .description a:hover {
+    background-color: rgba(255, 255, 255, 1.00);
+}
+
+.agent-pc .npagePage.post .mlist.team_tabs .tab_button li.active .item_img::before {
+    border-bottom-color: #c81212;
+}
+
+.agent-pc #sitecontent .service .container_category a.active,
+.agent-pc #sitecontent .service .container_category a:hover {
+    border-bottom-color: #c81212;
+}
+
+.agent-pc .project .item_block:hover .details::before,
+.agent-pc .project .item_block:hover .details::after,
+.agent-pc #indexPage .news .item_block:hover .details::before,
+.agent-pc #indexPage .news .item_block:hover .details::after,
+.agent-pc #indexPage .news .item_block:hover .details::before,
+.agent-pc #indexPage .news .item_block:hover .details::after,
+.agent-pc .ad01 .item_wrapper,
+.agent-pc #indexPage .mcustomize {
+    background-color: #fff;
+}
+
+.agent-pc .ad01 .item_block:hover .subtitle::before,
+.agent-pc .ad01 .item_block.first .subtitle::after {
+    background-color: rgba(255, 255, 255, .3);
+}
+
+
+/*手机版颜色*/
+
+.dropmenu ul li a,
+.mm-menu,
+.dropmenu ul {
+    background-color: #2b2b2b;
+}
+
+.agent-mobile .news .content_list li {
+    border-bottom-color: rgba(0, 0, 0, .08);
+}
+
+.mm-listview>li>a.active,
+.dropmenu ul,
+#footer {
+    background-color: #f8f8f8;
+}
+
+.agent-mobile #header,
+.agent-mobile #mcontact,
+.agent-mobile .imagelink,
+.agent-mobile #online {
+    background-color: #fff;
+}
+
+.agent-mobile .mlist .container_header .title,
+.agent-mobile .npagePage.post #postInfo .title,
+.agent-mobile .mlist,
+#sitecontent .project .item_block .title,
+.agent-mobile .ad01 .content_list li .title,
+.agent-mobile .team .item_block .title,
+.agent-mobile .team .item_block:hover .title,
+.agent-mobile #mcontact .contactinfo h3,
+.agent-mobile .npagePage.pageEditor .container_header .title,
+.agent-mobile .news .item_block .item_info .title {
+    color: #333;
+}
+
+.agent-mobile .service .item_info p.title {
+    color: #666;
+}
+
+.agent-mobile .news .content_list .item_wrapper .item_des p.description {
+    color: #999;
+}
+
+.agent-mobile .project .item_block .item_wrapper {
+    background-color: #fff;
+}
+
+.agent-mobile .npagePage.post #postWrapper .item_tags a,
+.mm-menu .mm-navbar>a {
+    color: #fff;
+}
+
+.agent-mobile .npagePage.post .project #postInfo .description a {
+    border-color: rgba(0, 0, 0, .3);
+}
+
+.agent-mobile #sitecontent .npagePage.post .project #postContent .title,
+.dropmenu ul li a.active {
+    color: #333;
+}
+
+.mm-menu .mm-navbar,
+.mm-menu .mm-navbar .mm-btn:after,
+.mm-menu .mm-navbar .mm-btn:before {
+    border-color: rgba(255, 255, 255, .1);
+}
+
+.agent-mobile #sitecontent .npagePage.post #postContent .title,
+.agent-mobile .news .item_block:hover .item_info .title,
+.agent-mobile .team_tabs .tab_content .content_list li:hover .title,
+.agent-mobile #online a,
+.mm-listview>li>a.active {
+    color: #c81212;
+}
+
+.agent-mobile #mcontact .container_header .title,
+.agent-mobile .module.mcustomize .header .title,
+.agent-mobile .team_tabs .tab_content .content_list li .title {
+    color: #555;
+}
+
+.agent-mobile .project .item_block:hover .item_wrapper,
+.bx-wrapper .bx-pager.bx-default-pager a.active,
+.bx-wrapper .bx-pager.bx-default-pager a:focus,
+.bx-wrapper .bx-pager.bx-default-pager a:hover,
+.agent-mobile .ad01 .content_list li:hover .item_wrapper,
+.agent-mobile #category .label,
+.agent-mobile .cate-title,
+.module.news .container_content .bx-wrapper .bx-controls-direction a:hover,
+#indexPage .module.news .container_content .bx-wrapper .bx-controls-direction a:hover,
+.agent-mobile .npagePage.post #postWrapper .item_tags a {
+    background-color: #c81212;
+}
+
+.bx-wrapper .bx-pager.bx-default-pager a.active,
+.bx-wrapper .bx-pager.bx-default-pager a:focus,
+.bx-wrapper .bx-pager.bx-default-pager a:hover {
+    border-color: #c81212;
+}
+
+.agent-mobile #category .label .text,
+.agent-mobile .dropmenu .label .down,
+.agent-mobile .cate-title,
+.agent-mobile #sitecontent .npagePage.post .project #postContent .item_block:hover .title {
+    color: #fff;
+}
+
+.agent-mobile .pclose::after,
+.pclose::before,
+.agent-mobile .pclose::after,
+.pclose::after {
+    border-top-color: #fff;
+}
+
+.agent-pc .project #postSlider {
+    background-color: #f8f8f8;
+}
+
+.dropmenu ul li a.active,
+.dropmenu ul li a {
+    background-color: #fff;
+}
+
+#header .nav>li a.active i,
+#header .nav>li:hover a i,
+#header .nav>li>a>i {
+    color: #666;
+}
+
+.module.mcounter ul.content_list li {
+    padding: 10px 0;
+    margin: 0;
+}
+
+.agent-mobile .module.mcounter ul.content_list li div {
+    border-right: rgba(0, 0, 0, .1) 1px solid;
+    box-sizing: border-box;
+}
+
+.module.mcounter ul.content_list li {
+    solid;
+    box-sizing: border-box;
+}
+
+.module.mcounter ul.content_list li div {
+    border-right: rgba(0, 0, 0, 0) 1px solid;
+}
+
+.agent-mobile .module.mcounter ul.content_list li:nth-child(4),
+.agent-mobile .module.mcounter ul.content_list li:nth-child(3) {
+    border: none;
+}
+
+.agent-mobile .module.mcounter ul.content_list li:nth-child(2n) div {
+    border: none;
+}
+
+
+/*合作伙伴*/
+
+.agent-pc .imagelink .bx-wrapper .bx-controls-direction a i {
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.ellipsis {}

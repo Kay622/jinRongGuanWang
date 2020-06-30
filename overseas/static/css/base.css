@@ -1,0 +1,16 @@
+
+/*团队介绍详情*/
+.teamBox{word-break: break-all; padding-top:60px;}
+.teamBox h5.title{ font-size: 20px;color: #fff;font-weight:400;}
+.teamBox h6.subtitle{font-size: 13px;margin-top: 10px;margin-bottom:40px; }
+.teamBox p.box{line-height:30px; font-size:13px;margin-top:40px;}
+.teamBox p.englishbox{line-height:25px;margin-top:60px;width: 90%;}
+
+/*联系*/
+.cintactBox{text-align: center;padding-bottom:50px;}
+.cintactBox p{color: rgba(165, 165, 165, .7);font-size: 12px;margin:15px 0;}
+.cintactBox p:first-child{margin-top:0;}
+.cintactBox p.tit{margin-top:30px}
+
+/*项目详情*/
+.projectBox  p{font-size:12px;line-height: 22px;}
